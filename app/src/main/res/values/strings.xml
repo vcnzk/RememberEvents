@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Запоминатор</string>
+    <string name="main_fragment">MainFragment</string>
+    <string name="text_view_list_name">Список 1</string>
+    <string name="hint_add_event">Добавьте событие</string>
+    <string name="button_add_event">Записать\nсобытие</string>
+</resources>
